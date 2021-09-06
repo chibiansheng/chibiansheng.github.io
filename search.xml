@@ -21,7 +21,10 @@
   <entry>
     <title>解决flatpak &quot;No remote refs found similar to &#39;flathub&#39;&quot; 问题</title>
     <url>/2021/09/06/%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>添加以下存储库，再重新安装就不会出现该错误：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo</span><br></pre></td></tr></table></figure>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.<br>添加以下存储库，再重新安装就不会出现该错误：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo</span><br></pre></td></tr></table></figure>
+
+<!-- 添加以下存储库，再重新安装就不会出现该错误：
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo --&gt;</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
 </search>
