@@ -19,6 +19,75 @@
 ]]></content>
   </entry>
   <entry>
+    <title>学习方法</title>
+    <url>/2021/09/08/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="The-first-20-hours-–-how-to-learn-anything"><a href="#The-first-20-hours-–-how-to-learn-anything" class="headerlink" title="The first 20 hours – how to learn anything"></a><strong>The first 20 hours – how to learn anything</strong></h3><ol>
+<li><p>Deconstruct the skill：将想学的技能进行分解。想好最后达成什么效果，然后再分解成一个个小的部分，练习其中最重要的事情，从而在最短的时间里提高自己</p>
+</li>
+<li><p>Learn enough to self-correct：要有一定的理论学习，帮助自己纠正错误。找到3到5种学习资源帮助自己，但是不能因为这个而推迟学习(比如说买20本书且想要全部看完)</p>
+</li>
+<li><p>Remove practice barriers：排除干扰。比如电子设备等，增强毅力</p>
+</li>
+<li><p>Practice at least 20 hours：至少要练习20小时。练习20个小时，渡过挫败期，”沮丧障碍”</p>
+<p>连接：</p>
+<p><a href="https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/">https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/</a></p>
+</li>
+</ol>
+<h3 id="Pareto-Principle"><a href="#Pareto-Principle" class="headerlink" title="Pareto Principle"></a><strong>Pareto Principle</strong></h3><p>也叫80/20法则，可以理解为”重要的少数”</p>
+<p>比如：在代码中80%的错误都归结于那20%，只要找到那重要的20%，就可以解决大部分bug</p>
+<p>连接：</p>
+<p><a href="https://en.wikipedia.org/wiki/Pareto_principle">https://en.wikipedia.org/wiki/Pareto_principle</a></p>
+<h3 id="Learning-pyramid"><a href="#Learning-pyramid" class="headerlink" title="Learning pyramid"></a><strong>Learning pyramid</strong></h3><p>学习金字塔通常通过百分比和离散层进行的，差距通常为:10%、20%、30%、50%和90%</p>
+<p>如下面维基百科的例子：</p>
+<table>
+<thead>
+<tr>
+<th align="center">Retention rate</th>
+<th align="center">Learning activity before test of knowledge</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">90%</td>
+<td align="center"><strong>Teach</strong> someone else/use immediately.</td>
+</tr>
+<tr>
+<td align="center">75%</td>
+<td align="center"><strong>Practice</strong> what one learned.</td>
+</tr>
+<tr>
+<td align="center">50%</td>
+<td align="center">Engage in a <strong>group discussion</strong>.</td>
+</tr>
+<tr>
+<td align="center">30%</td>
+<td align="center"><strong>Watch a demonstration</strong>.</td>
+</tr>
+<tr>
+<td align="center">20%</td>
+<td align="center"><strong>Watch audiovisual</strong>.</td>
+</tr>
+<tr>
+<td align="center">10%</td>
+<td align="center"><strong>Read</strong>.</td>
+</tr>
+<tr>
+<td align="center">5%</td>
+<td align="center">Listen to a <strong>lecture</strong>.</td>
+</tr>
+</tbody></table>
+<p>连接：</p>
+<p><a href="https://en.wikipedia.org/wiki/Learning_pyramid">https://en.wikipedia.org/wiki/Learning_pyramid</a></p>
+<h3 id="学习类型"><a href="#学习类型" class="headerlink" title="学习类型"></a><strong>学习类型</strong></h3><h5 id="被动学习"><a href="#被动学习" class="headerlink" title="被动学习"></a>被动学习</h5><p>若使用”学习金字塔”学习，我们只会了解10%的渗透测试经验，而通过看视频演示，学到的知识将不会超过30%。</p>
+<h5 id="主动学习"><a href="#主动学习" class="headerlink" title="主动学习"></a>主动学习</h5><p>当我们开始与他人讨论我们的整个列举过程、结果和发现时，我们会看到不同的观点、结果和信息，与我们自己的观点、结果和信息进行比较，发现我们遗漏了什么。通过使用这种主动学习的方式，我们收集到的经验高达50%。在与他人讨论我们的结果之前，我们应该自己练习。因此，在我们练习的同时，我们的学习经验会增长到75%。</p>
+<p>在渗透测试中，关注那些乍看起来不重要的细节是非常重要的。如果我们回过头来看，我们会看到一些术语被印成粗体和绿色，我们仔细观察，就会发现它们在这个过程中具有重要意义。在这里，训练眼睛注意到最微小的细节是至关重要的。而我们所有的知识和经验都是基于联想，这些联想将我们与不同的感知联系起来，例如颜色和气味，而这些，我们称之为记忆。以上在以后的实践中都会主动或被动地回忆起来。</p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>一个科学的学习方法将会事半功倍。</p>
+<p>同时，我们需要做的是主动学习，尽可能与比自己优秀的人相互讨论，寻找不同的答案，做到理论与实践相结合。</p>
+]]></content>
+      <categories>
+        <category>学习方法</category>
+      </categories>
+  </entry>
+  <entry>
     <title>解决flatpak &quot;No remote refs found similar to &#39;flathub&#39;&quot; 问题</title>
     <url>/2021/09/06/%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>添加以下存储库，再重新安装就不会出现该错误：</p>
